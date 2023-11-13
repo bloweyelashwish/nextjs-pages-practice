@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tile test cases Tile renders on the page 1`] = `
+<DocumentFragment>
+  <section
+    class="css-glfd8h"
+  >
+    <h2>
+      Tile header
+    </h2>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque cumque ad corrupti? Maxime vero dolor quibusdam eius corporis. Asperiores, nemo!
+  </section>
+</DocumentFragment>
+`;
